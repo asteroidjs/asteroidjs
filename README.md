@@ -44,7 +44,7 @@ Highly modulable, you can change the database or replace any techology above.
  * http://localhost:3000
 
 Rebuilds the client code in-memory & uses hot module reload so you can develop super fast!
-On my 2013 MBA an initial build takes about 8 seconds and updates usually take 800ms.
+An initial build takes about 8 seconds and updates usually take 800ms.
 
 ## Server-side development
 
