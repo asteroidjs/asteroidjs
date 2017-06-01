@@ -6,7 +6,7 @@ Open source platform to built fast, real-time, and scalable web, mobile, and des
 
 This project is designed to showcase the exact same functionality as Meteor, but **without the monolithic structure**. It trades a little simplicity **for a lot of flexibility & performances**.
 
-![](https://github.com/asteroidjs/branding/blob/master/logo/LOGO%202048.png?raw=true)
+![](https://github.com/asteroidjs/branding/blob/master/logo/LOGO%20TEXT%202048.png?raw=true)
 
 | Problem | METEOR's solution | ASTEROIDJS's solution | Result |
 |---|---|---|---|
