@@ -29,17 +29,3 @@ This project is designed to showcase the exact same functionality as Meteor, but
 | Server | Node 6 | Node 8 | Faster. |     
 
 Highly modulable, you can change the database or replace any techology above.
-
-## Installation
-
-Comming soon.
-
-## Tutorials
-
- * [A production-ready realtime SaaS with webpack](https://medium.com/@matt.krick/a-production-ready-realtime-saas-with-webpack-7b11ba2fa5b0#.bifdf5iz8)
- * [GraphQL Field Guide to Auth](https://medium.com/@matt.krick/graphql-field-guide-to-auth-ead84f657ab#.f3tg2sf3d)
-
-
-## Contributing
-
-Pull requests welcomed!
