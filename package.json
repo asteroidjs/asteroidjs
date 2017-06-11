@@ -1,0 +1,31 @@
+{
+  "name": "asteroidjs",
+  "version": "0.0.1",
+  "description": "Simple and scalable framework to build fast real-time responsive and progressive web applications.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asteroidjs/asteroidjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asteroidjs/asteroidjs/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "help": "Commands list:\n\nbuild:db >> Setup the database and it's tables\nupdate:db >> Update the database and it's tables",
+    "build:db": "node ./src/server/database/setupDB.babel.js",
+    "update:db": "node ./src/server/database/setupDB.babel.js true"
+  },
+  "author": "ESTEEM8",
+  "license": "MIT",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "express": "4.15.3",
+    "rethinkdbdash": "2.3.29",
+    "joi": "10.5.2",
+    "graphql": "0.10.1",
+    "socketcluster": "5.14.1",
+    "socketcluster-client": "5.5.1"
+  }
+}
