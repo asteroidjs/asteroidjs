@@ -16,8 +16,10 @@ This project is designed to showcase the exact same functionality as Meteor, but
 | Database hooks | [Collections2](https://github.com/aldeed/meteor-collection2) | [GraphQL](https://github.com/graphql/graphql-js) | GraphQL is overkill for small apps. |
 | Forms | [AutoForm](https://github.com/aldeed/meteor-autoform) | [redux-form](https://github.com/erikras/redux-form) | State tracking awesomeness that works beautifully with react. |
 | Client-side cache | [Minimongo](https://www.meteor.com/mini-databases) | [redux](http://redux.js.org/) | Bonus logging, time traveling, and undo functionality. |
+| Client-side DB | [Minimongo](https://www.meteor.com/mini-databases) | [pouchDB](https://pouchdb.com/) | Keep sync, asynchronous, big storage |
 | Socket server | [DDP-server](https://www.meteor.com/ddp) | [socketcluster](http://socketcluster.io/#!/)                        | super easy scaling, pubsub, auth, middleware. |
-| Authentication | Meteor accounts | [JWTs](https://jwt.io) | JWTs can also serve to authorize actions, too. |
+| Usual authentication | Meteor accounts | [JWTs](https://jwt.io) | JWTs can also serve to authorize actions, too. |
+| Specific authentication | Custom | Encrypted keys or tokens | Post-quantum encryption is recommended |
 | Auth-transport | [DDP](https://www.meteor.com/ddp) | GraphQL (via HTTP) or using websocket | Don't use sockets until you need to. |
 | Front-end | [Blaze](https://www.meteor.com/blaze) | [React](https://facebook.github.io/react/) | Vdom, **server-side rendering**, async router, etc... |
 | Build system | Meteor | [webpack](https://webpack.github.io/) | Using webpack inside meteor is very limited. |
