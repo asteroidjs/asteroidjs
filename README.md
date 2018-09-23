@@ -28,6 +28,7 @@ This project is designed to showcase the exact same functionality as Meteor, but
 | Testing | Velocity (or nothing at all) | [AVA](https://github.com/sindresorhus/ava) | Awesome es2016 concurrent testing. |
 | Linting | Your choice | [xo](https://www.npmjs.com/package/xo) | No dotfiles, fixes errors. |
 | Routing | [FlowRouter](https://github.com/kadirahq/flow-router) | [react-router-redux](https://github.com/reactjs/react-router-redux) | Stick the route in the state, react-router SSR, async routes. |
-| Server | Node 6 | Node 8 | Faster. |     
+| Server | Node 6 | Node 8 | Faster. |
+| Deployment | Custom | [Cordova](https://cordova.apache.org/) + [Crosswalk](https://crosswalk-project.org/) | Powerful, consistent, stable, and industrial. |    
 
 Highly modulable, you can change the database or replace any techology above.
