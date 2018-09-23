@@ -10,7 +10,7 @@ This project is designed to showcase the exact same functionality as Meteor, but
 
 | Problem | METEOR's solution | ASTEROIDJS's solution | Result |
 |---|---|---|---|
-| Database | [MongoDB](https://www.mongodb.org/) | [RethinkDB](https://www.rethinkdb.com/) | Built in real-time and scalability. |
+| Database | [MongoDB](https://www.mongodb.org/) | [RethinkDB](https://www.rethinkdb.com/) + [Redis](https://redis.io/) + ? | Built in real-time and for scalability. |
 | Database schema | [Simple Schema](https://github.com/aldeed/meteor-simple-schema) | [GraphQL](https://github.com/graphql/graphql-js) | Simple & powerfull. |
 | Client validation | [Simple Schema](https://github.com/aldeed/meteor-simple-schema) | [Joi](https://github.com/hapijs/joi) | Clean API for client validation, although the package is HUGE. |
 | Database hooks | [Collections2](https://github.com/aldeed/meteor-collection2) | [GraphQL](https://github.com/graphql/graphql-js) | GraphQL is overkill for small apps. |
