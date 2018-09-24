@@ -2,7 +2,7 @@
 
 **METEOR ON STEROIDS.**
 
-Open source platform to built fast, real-time, and scalable web, mobile, and desktop progressive applications.
+Open-source platform to built fast, real-time, and scalable web, mobile, and desktop progressive applications. As we're going more profesional, it enable the most advanced web innovations and permits to develop powerful apps.
 
 This project is designed to showcase the exact same functionality as Meteor, but **without the monolithic structure**. It trades a little simplicity **for a lot of flexibility & performances**.
 
